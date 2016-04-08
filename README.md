@@ -53,8 +53,13 @@ As part of an experiment also actors are added to an event log. Those actors are
 
 
 [1] http://www.hendriksbouwenontwikkeling.nl/
+
 [2] http://www.root-bv.nl/
+
 [3] https://www.tno.nl/en/
+
 [4] http://raamac.cee.illinois.edu/
+
 [5] https://www.teklabimsight.com/
+
 [6] https://synchroltd.com/
