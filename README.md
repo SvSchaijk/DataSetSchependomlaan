@@ -39,6 +39,22 @@ As-planned models are created by use of Synchro[6] software. The design IFC is c
 - Week 37 11 sept IFC Schependomlaan incl planningsdata.ifc
 Note that at the moment of writing Synchro does not have optimal IFC exporting options, as a result the data structure in IFC is changed during export. The elevation tree is changed and the property sets are changed. As can be seen in the figures below. One has to take this into account when working with this dataset.
 
+![figure 1: Changed IFC structure elevations. Upper model is the original, the lower model is the as-planned model with the changed elevation structure.](https://raw.githubusercontent.com/SvSchaijk/DataSetSchependomlaan/master/figure%201.png)
+
+figure 1: Changed IFC structure elevations. Upper model is the original, the lower model is the as-planned model with the changed elevation structure.
+
+
+![figure 2: Parameter structure before Synchro export, notice the property sets in the green rectangle.](https://raw.githubusercontent.com/SvSchaijk/DataSetSchependomlaan/master/figure%202.png)
+
+figure 2: Parameter structure before Synchro export, notice the property sets in the green rectangle.
+
+
+![figure 3: Parameter structure after ifc export, notice the red rectangle: original parameter sets are merged into one SynchroResourcePropertyset.](https://raw.githubusercontent.com/SvSchaijk/DataSetSchependomlaan/master/figure%203.png)
+
+figure 3: Parameter structure after ifc export, notice the red rectangle: original parameter sets are merged into one SynchroResourcePropertyset.
+
+
+
 **As-built Point clouds**
 The construction site is filmed with drones over days during the project. The movies can be seen at the Youtube chanel of the drone pilot:
 https://www.youtube.com/channel/UCHsKVCxqYaZn39JNZH7v9LQ
