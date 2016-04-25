@@ -3,7 +3,7 @@
 This document contains information about the data set regarding the construction project Schependomlaan. All involved parties have given permission to use the data for scientific and academic purposes. The data is gathered during the master thesis project of Stijn van Schaijk. In collaboration with Hendriks Bouw en Ontwikkeling[1], ROOT[2], TNO[3] and RAAMAC[4] the data is collected. General information about the project can be found at the website http://www.schependomlaan.nl/ .
 
 The dataset contains the following elements:
-- Design model in .IFC
+- Design model in .IFC .PLA (Archicad)
 - Issues (collision / clash detection) in BCF (.bzfzip) and in Tekla BIMsight Package.
 - Subcontractor models in .IFC and .DWG
 	   - Flooring
