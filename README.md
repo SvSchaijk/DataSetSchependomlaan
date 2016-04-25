@@ -1,6 +1,8 @@
 **Dataset Schependomlaan**
 
-This document contains information about the data set regarding the construction project Schependomlaan. All involved parties have given permission to use the data for scientific and academic purposes. The data is gathered during the master thesis project of Stijn van Schaijk. In collaboration with Hendriks Bouw en Ontwikkeling[1], ROOT[2], TNO[3] and RAAMAC[4] the data is collected. General information about the project can be found at the website http://www.schependomlaan.nl/ .
+All data owners have given permission to use the data for scientific and academic purposes. The data is gathered during the master thesis project of Stijn van Schaijk. In collaboration with Hendriks Bouw en Ontwikkeling[1], ROOT[2], TNO[3] and RAAMAC[4] the data is collected. General information about the project can be found at the website http://www.schependomlaan.nl/ .
+
+**Please pay attention**: github uses lfs for large files. When you want to download the Full dataset, please use [the zip](https://github.com/openBIMstandards/DataSetSchependomlaan/releases/download/1.0/FullDataSetSchependomlaan-1.0.zip) from [the release section](https://github.com/openBIMstandards/DataSetSchependomlaan/releases)
 
 The dataset contains the following elements:
 - Design model in .IFC and .PLA (Archicad)
