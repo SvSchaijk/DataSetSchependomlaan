@@ -4,8 +4,8 @@ This document contains information about the data set regarding the construction
 
 The dataset contains the following elements:
 - Design model in .IFC
-- Issues (collision / clash detection) in BCF (.bzfzip)
--  Subcontractor models in .IFC and .DWG
+- Issues (collision / clash detection) in BCF (.bzfzip) and in Tekla BIMsight Package.
+- Subcontractor models in .IFC and .DWG
 	   - Flooring
 	   - Walls
 	   - Stairs
@@ -31,7 +31,9 @@ The design model IFC Schependomlaan.ifc is made in Archicad by ROOT bv. They mod
 A Quality check was permormed on the design model using Solibri Model Checker. The results are stored as BCF 2.0 in a bcfzip file.
 
 **Coordination model and Subcontractor models**
-The models delivered by the subcontractors are coordinated in the file: Schependomlaan Nijmegen.tbp. This file can be opened using Tekla BIMsight5 and contains all the subcontractor models. Some subcontractors couldn’t deliver their products in BIM/.IFC. Those designs are aligned with the BIM using .DWG formats.
+The models delivered by the subcontractors are coordinated in the file: Schependomlaan Nijmegen.tbp. This file can be opened using Tekla BIMsight5 and contains all the subcontractor models. Some subcontractors couldn’t deliver their products in BIM/.IFC. Those designs are aligned with the BIM using .DWG formats. 
+
+The subcontractor models were checked during the engineering phase, this is done by using Tekla BIMsight. The .tbp files can be opend by use of Tekla BIMsight. The notes made during this proces are captured in BCFzip files. 
 
 **Planning and as-planned models**
 As-planned models are created by use of Synchro[6] software. The design IFC is connected by use of the .XML planning. The native Synchro file is available Synchro project Schependomlaan.sp . From Synchro as-planned models are exported to .IFC. A model containing all the planning information is exported called: IFC Schependomlaan incl planningsdata.ifc. As part of the study also as-planned models on specific dates had to be exported. So the following models have been made:
