@@ -4,6 +4,7 @@ This document contains information about the data set regarding the construction
 
 The dataset contains the following elements:
 - Design model in .IFC
+- Issues (collision / clash detection) in BCF (.bzfzip)
 -  Subcontractor models in .IFC and .DWG
 	   - Flooring
 	   - Walls
@@ -25,6 +26,9 @@ The dataset contains the following elements:
 
 **Design model**
 The design model IFC Schependomlaan.ifc is made in Archicad by ROOT bv. They modelled the project by order of Hendriks Bouw en Ontwikkeling. The project was originally drawn in 2D cad formats and was translated into a high quality BIM model. The design model is used as a reference during the engineering phase in collaboration with the subcontractors.
+
+**BCF Issues**
+A Quality check was permormed on the design model using Solibri Model Checker. The results are stored as BCF 2.0 in a bcfzip file.
 
 **Coordination model and Subcontractor models**
 The models delivered by the subcontractors are coordinated in the file: Schependomlaan Nijmegen.tbp. This file can be opened using Tekla BIMsight5 and contains all the subcontractor models. Some subcontractors couldn’t deliver their products in BIM/.IFC. Those designs are aligned with the BIM using .DWG formats.
