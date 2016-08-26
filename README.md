@@ -24,6 +24,7 @@ The dataset contains the following elements:
 - As-built Event log in .xlsx and .csv
 - Event log with actors in .xlsx and .csv
 - Download link to drone images and videos
+- RDF conversion of the design IFC model
 
 *Some files contain some errors and therefore have to be treated carefully.*
 
