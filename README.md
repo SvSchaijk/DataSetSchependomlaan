@@ -2,6 +2,9 @@
 
 All data owners have given permission to use the data for scientific and academic purposes. The data is gathered during the master thesis project of Stijn van Schaijk at the [Information Systems for the Built Environment (ISBE) group](https://www.isbe.tue.nl/)  of the [TU Eindhoven](http://www.tue.nl). In collaboration with Hendriks Bouw en Ontwikkeling[1], ROOT[2], TNO[3] and RAAMAC[4] the data is collected. General information about the project can be found at the website http://www.schependomlaan.nl/ .
 
+![A render from the Schependomlaan dataset, sumitted by tamar benashvili](https://github.com/openBIMstandards/DataSetSchependomlaan/raw/master/schependomlaan.jpg)
+
+
 **Please pay attention**: Do not download seperate files, they will give errors. Download the full dataset please use [the zip](https://github.com/openBIMstandards/DataSetSchependomlaan/releases/download/1.0/FullDataSetSchependomlaan-1.0.zip) from [the release section](https://github.com/openBIMstandards/DataSetSchependomlaan/releases)
 
 The dataset contains the following elements:
