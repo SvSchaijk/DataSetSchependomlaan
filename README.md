@@ -1,3 +1,5 @@
+DOI 10.17605/OSF.IO/NE2YU
+
 **Dataset Schependomlaan**
 
 All data owners have given permission to use the data for scientific and academic purposes. The data is gathered during the master thesis project of Stijn van Schaijk at the [Information Systems for the Built Environment (ISBE) group](https://www.isbe.tue.nl/)  of the [TU Eindhoven](http://www.tue.nl). In collaboration with Hendriks Bouw en Ontwikkeling[1], ROOT[2], TNO[3] and RAAMAC[4] the data is collected. General information about the project can be found at the website http://www.schependomlaan.nl/ .
