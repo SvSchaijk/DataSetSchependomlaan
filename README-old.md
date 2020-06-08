@@ -1,4 +1,3 @@
-DOI 10.17605/OSF.IO/NE2YU
 
 **Dataset Schependomlaan**
 
